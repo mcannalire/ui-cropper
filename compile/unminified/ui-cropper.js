@@ -4423,3 +4423,5 @@ angular.module('uiCropper').directive('uiCropper', ['$timeout', 'cropHost', 'cro
     }
 
 }.call(this));
+
+module.exports = 'uiCropper';
